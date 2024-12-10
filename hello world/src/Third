@@ -1,0 +1,9 @@
+public class New
+  public static void main {
+
+ double myFirstValue = 20.00d;
+ double mySecondValue = 80.00d;
+ double myTotal Value = myFirstValue +  mySecondValue * 100.00d;
+ s
+
+}
