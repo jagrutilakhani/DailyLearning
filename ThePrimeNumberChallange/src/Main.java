@@ -1,11 +1,15 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+// Update code for new change
 public class Main {
     public static void main(String[] args) {
 
         System.out.println(" the sum of the digits in number 1234 is " + sumDigits(1234));
         System.out.println(" the sum of the digits in number 4567 is " + sumDigits(4567));
         System.out.println(" the sum of the digits in number 6789is " + sumDigits(6789));
+        System.out.println(" the sum of the digits in number 6789is " + sumDigits(3657));
+        System.out.println(" the sum of the digits in number 6789is " + sumDigits(9847));
+        System.out.println(" the sum of the digits in number 6789is " + sumDigits(2332));
 
 
     }
@@ -39,7 +43,6 @@ public class Main {
 //            isEven++;
 //            continue;
 //        }
-//        System.out.println("total odd number found = " + oddCounter);
 //        System.out.println("total even number found = " +evenCounter);
 //    }
 //
